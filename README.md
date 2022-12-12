@@ -7,3 +7,4 @@
 3. Use the git remote workflow with your partner
 
 ### Reference the workshop for instructions!
+# StrangerThingsProject
